@@ -19,4 +19,4 @@ public class DateTest {
 		  myDate.setyear(myYear);
 		  myDate.displayDate();
 		}
-		}
+}
